@@ -2,5 +2,5 @@ package myutil
 
 func GetVersion() string {
 
-	return "Version 1.0"
+	return "Version 2.0"
 }
